@@ -35,7 +35,7 @@ After rounds of debugging, trials and errors, I figured out the identifier the s
 
     > This workflow does NOT connect to the internet or attempt to store any data. You may disconnect the Internet or use a firewall to ensure this.
 
-    ![Image 3](https://github.com/mrmagic2020/WeAccess/blob/main/Assets/Image%203.png?raw=true)
+    <img src="https://github.com/mrmagic2020/WeAccess/blob/main/Assets/Image%203.png?raw=true" width="300" alt="Image 3">
 
 5. Allow up to 10 seconds after entering the password, as resigning the app may take some time.
 
