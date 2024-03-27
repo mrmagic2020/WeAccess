@@ -6,6 +6,8 @@
 
 A simple workflow to enable the use of WeChat for Mac on restricted devices.
 
+**USE AT YOUR OWN RISK**
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrmagic2020/WeAccess)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/mrmagic2020/WeAccess/latest)
 ![GitHub Release Date](https://img.shields.io/github/release-date/mrmagic2020/WeAccess)
@@ -14,7 +16,7 @@ A simple workflow to enable the use of WeChat for Mac on restricted devices.
 
 ## Background
 
-Due to some inappropriate activities involving the social media app WeChat, the app has been banned on school-issued computers, resulting in this:
+Due to some inappropriate activities involving the social media app WeChat, the app has been banned on our school-issued computers, resulting in this:
 
 <img src="https://github.com/mrmagic2020/WeAccess/blob/main/Assets/ban_message.jpg?raw=true" width="500" alt="Restriction Message">
 
@@ -49,7 +51,7 @@ After rounds of debugging, trials and errors, I figured out the identifier the s
 - Observation: Changing an application's name does not affect the displayed name in `Activity Monitor`. Therefore, the name displayed is decided by the name of the `executable file`, which might be one of the targeted identifiers.
 
   - Note that we cannot just change the executable name. Doing so will prevent the program from locating the executable, thus breaking it.
-  - Therefore, we look into `Info.plist`, where we notice `CFBundleDisplayName` and `CFBundleExecutable` attributes, which are both set to  "WeChat".
+  - Therefore, we look into `Contents/Info.plist`, where we notice `CFBundleDisplayName` and `CFBundleExecutable` attributes, which are both set to  "WeChat".
   - Changing both these attributes in accordance with the executable name should work.
 
 - Observation: Two error pops up after the operation:
