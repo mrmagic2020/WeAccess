@@ -11,7 +11,6 @@ PLIST="/Applications/WeChat.app/Contents/Info.plist"
 /usr/libexec/PlistBuddy -c "Set :CFBundleIdentifier com.tencent.xinWC" "$PLIST"
 
 # Step 3: Rename executables in the macOS folder
-# find /Applications/WC.app/Contents/MacOS -type f -exec mv {} /Applications/WC.app/Contents/MacOS/WC \;
 mv /Applications/WeChat.app/Contents/MacOS/WeChat /Applications/WeChat.app/Contents/MacOS/WC
 
 # Step 4: Re-sign the application
