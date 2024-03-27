@@ -12,7 +12,7 @@ A simple workflow to enable the use of WeChat for Mac on restricted devices.
 
 ## How to Use
 
-1. Download the latest release [here](https://github.com/mrmagic2020/WeAccess/releases/latest).
+1. Download the latest release [here](https://github.com/mrmagic2020/WeAccess/latest).
 
 2. Ensure that you have WeChat installed and ready in the `Applications` folder. Do NOT open it. You may use the provided copy of WeChat. It is directly downloaded from the [official website](https://mac.weixin.qq.com/?lang=en), and might not be up to date.
 
