@@ -1,8 +1,10 @@
 # WeAccess
 
-A simple workflow to enable the use of WeChat for Mac on restricted devices.
-
 <div align="center">
+
+<img src="https://github.com/mrmagic2020/WeAccess/blob/main/Assets/ApplicationStub.png?raw=true" width="100">
+
+A simple workflow to enable the use of WeChat for Mac on restricted devices.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrmagic2020/WeAccess)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/mrmagic2020/WeAccess/latest)
