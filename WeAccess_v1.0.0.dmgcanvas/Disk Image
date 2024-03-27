@@ -1,0 +1,108 @@
+{
+  "diskImage" : {
+    "autoopen" : true,
+    "background" : {
+      "color" : "{1.000000, 1.000000, 1.000000, 1.000000}",
+      "layoutObjects" : [
+        {
+          "alignment" : 1,
+          "bounds" : "{{47, 150}, {200, 60}}",
+          "hasShadow" : true,
+          "identifier" : "mwtxyatxjz",
+          "layoutObjectType" : "text",
+          "shadowAngle" : 315,
+          "shadowBlurRadius" : 3,
+          "shadowColor" : "{0.000000, 0.000000, 0.000000, 1.000000}",
+          "shadowOffset" : 3,
+          "shadowOpacity" : 0.25,
+          "stringRTF" : "{\\rtf1\\ansi\\ansicpg1252\\cocoartf2761\n\\cocoatextscaling0\\cocoaplatform0{\\fonttbl\\f0\\fnil\\fcharset0 HelveticaNeue;}\n{\\colortbl;\\red255\\green255\\blue255;\\red251\\green2\\blue7;}\n{\\*\\expandedcolortbl;;\\cssrgb\\c100000\\c14913\\c0;}\n\\pard\\tx560\\tx1120\\tx1680\\tx2240\\tx2800\\tx3360\\tx3920\\tx4480\\tx5040\\tx5600\\tx6160\\tx6720\\pardirnatural\\qc\\partightenfactor0\n\n\\f0\\fs36 \\cf2 READ ME FIRST}",
+          "uid" : "mwtxyatxjz",
+          "verticalAlignment" : 0
+        },
+        {
+          "alignment" : 1,
+          "bounds" : "{{117, 240}, {366, 89}}",
+          "hasShadow" : true,
+          "identifier" : "nywnxkntsz",
+          "layoutObjectType" : "text",
+          "shadowAngle" : 315,
+          "shadowBlurRadius" : 3,
+          "shadowColor" : "{0.000000, 0.000000, 0.000000, 1.000000}",
+          "shadowOffset" : 3,
+          "shadowOpacity" : 0.25,
+          "stringRTF" : "{\\rtf1\\ansi\\ansicpg1252\\cocoartf2761\n\\cocoatextscaling0\\cocoaplatform0{\\fonttbl\\f0\\fnil\\fcharset0 HelveticaNeue-ThinItalic;}\n{\\colortbl;\\red255\\green255\\blue255;}\n{\\*\\expandedcolortbl;;}\n\\pard\\tx560\\tx1120\\tx1680\\tx2240\\tx2800\\tx3360\\tx3920\\tx4480\\tx5040\\tx5600\\tx6160\\tx6720\\pardirnatural\\qc\\partightenfactor0\n\n\\f0\\i\\fs72 \\cf0 Proudly Presented by MagicWorks}",
+          "uid" : "nywnxkntsz",
+          "verticalAlignment" : 0
+        }
+      ],
+      "type" : 1
+    },
+    "defaultLicenseLanguage" : "English",
+    "iconPreviewVisible" : false,
+    "iconSize" : 66,
+    "itemInfoVisible" : false,
+    "labelPosition" : 0,
+    "licenses" : [
+      {
+        "agreeButtonTitle" : "Agree",
+        "disagreeButtonTitle" : "Disagree",
+        "language" : "English",
+        "printButtonTitle" : "Print",
+        "prompt" : "IMPORTANT - Read this License Agreement carefully before clicking on the \"Agree\" button. By clicking on the \"Agree\" button, you agree to be bound by the terms of the License Agreement.",
+        "saveButtonTitle" : "Save…",
+        "systemLanguageID" : 0
+      },
+      {
+        "agreeButtonTitle" : "同意",
+        "disagreeButtonTitle" : "不同意",
+        "language" : "Chinese - Simplified",
+        "printButtonTitle" : "打印",
+        "prompt" : "如果您同意本许可协议的条款，请按“同意”来安装此软件。如果您不同意，请按“不同意”。",
+        "saveButtonTitle" : "存储⋯",
+        "systemLanguageID" : 52
+      }
+    ],
+    "nameFontSize" : 12,
+    "statusBarVisible" : false,
+    "suggestedDiskImageName" : "WeAccess_v1.0.0.dmg",
+    "toolbarVisible" : false,
+    "uid" : "nzdmvzrxei",
+    "validationScheme" : 0,
+    "viewLayout" : 0,
+    "volumeIcon" : "volumeIcon",
+    "volumeName" : "WeAccess_v1.0.0",
+    "volumeSize" : 0,
+    "volumeSizeOption" : "Automatic",
+    "windowContentHeight" : 360,
+    "windowContents" : [
+      {
+        "filePath" : "\/Users\/arnold.zhou\/Documents\/VSC\/Commandline\/WeAccess\/Distributable\/WeAccess_v1.0.0\/README.md",
+        "iconSize" : 100,
+        "invisible" : false,
+        "isAnAlias" : false,
+        "location" : "{148, 147}",
+        "relativeFilePath" : "Distributable\/WeAccess_v1.0.0\/README.md"
+      },
+      {
+        "filePath" : "\/Users\/arnold.zhou\/Documents\/VSC\/Commandline\/WeAccess\/Distributable\/WeAccess_v1.0.0\/WeAccess.app",
+        "iconSize" : 100,
+        "invisible" : false,
+        "isAnAlias" : false,
+        "location" : "{300, 147}",
+        "relativeFilePath" : "Distributable\/WeAccess_v1.0.0\/WeAccess.app"
+      },
+      {
+        "filePath" : "\/Users\/arnold.zhou\/Documents\/VSC\/Commandline\/WeAccess\/Distributable\/WeAccess_v1.0.0\/WeChatMac.dmg",
+        "iconSize" : 100,
+        "invisible" : false,
+        "isAnAlias" : false,
+        "location" : "{452, 147}",
+        "relativeFilePath" : "Distributable\/WeAccess_v1.0.0\/WeChatMac.dmg"
+      }
+    ],
+    "windowContentWidth" : 600,
+    "windowLeft" : 200,
+    "windowTop" : 120
+  },
+  "version" : 4
+}
