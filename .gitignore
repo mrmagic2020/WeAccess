@@ -1,3 +1,4 @@
 *.dmg
 *.app
+.DS_Store
 /Distributable
