@@ -6,8 +6,6 @@
 
 A simple workflow to enable the use of WeChat for Mac on restricted devices.
 
-**USE AT YOUR OWN RISK**
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/mrmagic2020/WeAccess)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/mrmagic2020/WeAccess/latest)
 ![GitHub Release Date](https://img.shields.io/github/release-date/mrmagic2020/WeAccess)
