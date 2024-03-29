@@ -37,11 +37,13 @@ After rounds of debugging, trials and errors, I figured out the identifier the s
 
     <img src="https://github.com/mrmagic2020/WeAccess/blob/main/Assets/Image%203.png?raw=true" width="300" alt="Image 3">
 
-5. Allow up to 10 seconds after entering the password, as resigning the app may take some time.
+5. Allow up to 10 seconds after entering the password, as re-signing the app may take some time.
 
-6. Finally, WeChat will be renamed to “WC”. Right-click and open it to bypass Gatekeeper.
+6. Finally, a popup window will inform you that the process has been completed. Right-click and open `WeChat` to bypass Gatekeeper.
 
 7. Use as usual. Note that you will not be able to update the app directly. If an update is desired, you will need to reinstall the app and repeat this process.
+
+Please support us by `starring` this repository. Your support is hight appreciated! 🌟
 
 ## How it Works
 
