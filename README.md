@@ -26,7 +26,7 @@ After rounds of debugging, trials and errors, I figured out the identifier the s
 
 2. Ensure that you have WeChat installed and ready in the `Applications` folder. Do NOT open it. You may use the provided copy of WeChat. It is directly downloaded from the [official website](https://mac.weixin.qq.com/?lang=en), and might not be up to date.
 
-3. Run `MagicWeChat` by **right-clicking and selecting `Open`** to bypass Gatekeeper. Select `Open` when prompted.
+3. Run `MagicWeChat`. You might need to **right-click and select `Open`** to bypass Gatekeeper. Select `Open` when prompted.
 
     <img src="https://github.com/mrmagic2020/WeAccess/blob/main/Assets/Image%201.png?raw=true" width="300" alt="Image 1">
     <img src="https://github.com/mrmagic2020/WeAccess/blob/main/Assets/Image%202.png?raw=true" width="200" alt="Image 2">
